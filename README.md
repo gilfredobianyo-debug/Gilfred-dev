@@ -1,4 +1,4 @@
-## Hi, I'm Gilfred - 15 | Aspiring Cloud Cloud Security Engineer
+## Hi, I'm Gilfred - 15 | Aspiring Cloud Security Engineer
 
 I break and secure things on the internet. Currently learning to secure the cloud.
 
